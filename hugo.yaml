@@ -1,0 +1,73 @@
+baseURL: "https://vhuuyt.github.io/"
+title: vhuuyt's blog
+languageCode: zh-CN
+paginate: 5
+theme: ["PaperMod"]
+
+# contentDir: "content/posts"
+newContentHandler:
+  path: "content/posts"
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+pygmentsUseClasses: true
+mainsections: ["posts"]
+
+menu:
+  main:
+    - name: Archive
+      url: archives
+      weight: 1
+    - name: Search
+      url: search/
+      weight: 2
+    - name: Tags
+      url: tags/
+      weight: 3
+    - name: Read
+      url: e-books
+      weight: 9
+    - name: Links
+      url: links
+      weight: 10
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+params:
+  # env: production
+
+  defaultTheme: auto
+  # disableThemeToggle: true
+  ShowShareButtons: false
+  ShowReadingTime: false
+  # disableSpecial1stPost: true
+  displayFullLangName: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowRssButtonInSectionTermList: true
+  ShowAllPagesInArchive: true
+  ShowPageNums: true
+  ShowToc: true
+  # comments: false
+  # images: ["images/papermod-cover.png"]
+
+  homeInfoParams:
+    Title: "vhuuyt's Cyberspace"
+    Content: >
+      👋欢迎来到殊约的赛博空间
+  socialIcons:
+    - name: github
+      title: Github
+      url: https://github.com/vhuuyt/
+    - name: email
+      title: email
+      url: mailto://vhuuyt@foxmail.com
