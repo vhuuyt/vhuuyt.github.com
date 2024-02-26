@@ -2,6 +2,7 @@
 title: "win vscode中搭建c/c++环境"
 date: "2022-04-19"
 tags: ["编辑器","编程"]
+summary: vscode目前是宇宙第一编辑器
 ---
 
 # 下载准备

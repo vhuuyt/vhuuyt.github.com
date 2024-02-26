@@ -2,6 +2,7 @@
 title: "emacs-tutor"
 date: "2022-04-01"
 tags: ["编辑器"]
+summary: 学不会，完全学不会，太反人类了
 ---
 
 > 所有内容都抄录自 Emacs 官方指导文档

@@ -2,6 +2,7 @@
 title: "vimtutor zh"
 date: "2022-04-17"
 tags: ["编辑器"]
+summary: :q
 ---
 
 # 细述

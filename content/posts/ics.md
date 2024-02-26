@@ -2,6 +2,7 @@
 title: "计算机系统基础-课程实验（南大）"
 date: "2022-12-31"
 tags: ["Linux","瞎折腾"]
+summary: "最喜欢蒋炎岩老师了！"
 ---
 
 # Introduction to Computer System(s)-Programming Assignment

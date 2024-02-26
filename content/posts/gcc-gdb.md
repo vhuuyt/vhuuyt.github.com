@@ -2,6 +2,7 @@
 title: "gcc&gdb使用"
 date: "2022-04-10"
 tags: ["Linux","编程"]
+summary: "gdb -tui 可真是秀到我了"
 ---
 
 # GCC
