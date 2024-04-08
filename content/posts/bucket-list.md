@@ -2,7 +2,7 @@
 title: "Bucket List"
 date: "2022-12-02"
 tags: ["碎碎念"]
-weight: 1
+weight: 9
 description: "一些想要做的大大小小的事情"
 summary: "一些想要做的大大小小的事情"
 ---

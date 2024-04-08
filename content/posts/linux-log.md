@@ -1,7 +1,7 @@
 ---
 title: "Linux折腾大杂烩"
 date: "2022-04-13"
-weight: 2
+weight: 10
 tags: ["瞎折腾","Linux"]
 summary: "记录一些遇到的问题和解决方法（如果有的话）"
 ---
@@ -114,6 +114,10 @@ sudo reboot
 sudo dnf swap mesa-va-drivers mesa-va-drivers-freeworld
 sudo dnf swap mesa-vdpau-drivers mesa-vdpau-drivers-freeworld
 ```
+
+## heif、avif的解码
+
+需要`libavif-gdk-pixbuf`和`heif-gdk-pixbuf`
 
 ## vlc不能直接打开安卓手机文件
 
