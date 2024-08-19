@@ -1,7 +1,7 @@
 ---
 title: "Linux折腾大杂烩"
 date: "2022-04-13"
-weight: 10
+weight: 
 tags: ["瞎折腾","Linux"]
 summary: "记录一些遇到的问题和解决方法（如果有的话）"
 ---

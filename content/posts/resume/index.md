@@ -7,4 +7,6 @@ ShowToc: flase
 weight: 1
 ---
 
-[download link](./resume.pdf)
+[download link - En (invalid)]()
+
+[下载链接 - 中文版（失效中）]()
